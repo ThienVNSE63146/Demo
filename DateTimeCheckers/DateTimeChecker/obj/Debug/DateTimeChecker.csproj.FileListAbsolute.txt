@@ -1,0 +1,13 @@
+C:\Users\thien\OneDrive\Desktop\Prn292- dotNet\DateTimeChecker\DateTimeChecker\bin\Debug\DateTimeChecker.exe.config
+C:\Users\thien\OneDrive\Desktop\Prn292- dotNet\DateTimeChecker\DateTimeChecker\bin\Debug\DateTimeChecker.exe
+C:\Users\thien\OneDrive\Desktop\Prn292- dotNet\DateTimeChecker\DateTimeChecker\bin\Debug\DateTimeChecker.pdb
+C:\Users\thien\OneDrive\Desktop\Prn292- dotNet\DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.csprojAssemblyReference.cache
+C:\Users\thien\OneDrive\Desktop\Prn292- dotNet\DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.Form1.resources
+C:\Users\thien\OneDrive\Desktop\Prn292- dotNet\DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.Properties.Resources.resources
+C:\Users\thien\OneDrive\Desktop\Prn292- dotNet\DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.csproj.GenerateResource.cache
+C:\Users\thien\OneDrive\Desktop\Prn292- dotNet\DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.csproj.CoreCompileInputs.cache
+C:\Users\thien\OneDrive\Desktop\Prn292- dotNet\DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.exe
+C:\Users\thien\OneDrive\Desktop\Prn292- dotNet\DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.pdb
+C:\Users\thien\OneDrive\Desktop\Prn292- dotNet\DateTimeChecker\DateTimeChecker\bin\Debug\nunit.framework.dll
+C:\Users\thien\OneDrive\Desktop\Prn292- dotNet\DateTimeChecker\DateTimeChecker\bin\Debug\nunit.framework.xml
+C:\Users\thien\OneDrive\Desktop\Prn292- dotNet\DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.csproj.CopyComplete
